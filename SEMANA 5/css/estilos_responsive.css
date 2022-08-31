@@ -1,10 +1,11 @@
 /*seccionj de estilos CSS3 para la pagina web */
 body{
 background: white;
-background-image:url(natacion.jpn.jpeg);   
-background: no-repeat;
-background-attachment:fixed;
-background-size:cover;
+background-image:url(IMG/incap.jpeg);   
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
 }
 /*seccion de estilos CSS3 para la cabecera pagina wed */
 header{ 
@@ -49,7 +50,7 @@ section{
     padding:10px 10px;
     border-radius: 20px;
     margin:10px auto;
-    background: linear-gradient(navy, blue);
+    background: linear-gradient(rgb(0, 0, 0), rgb(131, 7, 7));
 }
 form{
     background: silver;
